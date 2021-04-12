@@ -1,0 +1,13 @@
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.csprojAssemblyReference.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.AssemblyInfoInputs.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.AssemblyInfo.cs
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.exe
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.deps.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.runtimeconfig.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.runtimeconfig.dev.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.dll
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.pdb
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.dll
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.pdb
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.genruntimeconfig.cache

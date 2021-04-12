@@ -1,0 +1,13 @@
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).exe
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).deps.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).runtimeconfig.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).runtimeconfig.dev.json
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).dll
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\bin\Debug\netcoreapp3.1\Opdracht1(oefening13en14).pdb
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).csprojAssemblyReference.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).AssemblyInfoInputs.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).AssemblyInfo.cs
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).csproj.CoreCompileInputs.cache
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).dll
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).pdb
+C:\Users\cedri\Source\Repos\semester-4-CedricArentz\hoofdstuk2\Opdracht1(oefening13en14)\obj\Debug\netcoreapp3.1\Opdracht1(oefening13en14).genruntimeconfig.cache
