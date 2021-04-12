@@ -1,0 +1,9 @@
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\bin\Debug\netcoreapp3.1\AudioDevices.Tracks.deps.json
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\bin\Debug\netcoreapp3.1\AudioDevices.Tracks.dll
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\bin\Debug\netcoreapp3.1\AudioDevices.Tracks.pdb
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.csprojAssemblyReference.cache
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.AssemblyInfoInputs.cache
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.AssemblyInfo.cs
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.csproj.CoreCompileInputs.cache
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.dll
+C:\Users\cedri\source\repos\SoundSharpClassLibrary\obj\Debug\netcoreapp3.1\AudioDevices.Tracks.pdb

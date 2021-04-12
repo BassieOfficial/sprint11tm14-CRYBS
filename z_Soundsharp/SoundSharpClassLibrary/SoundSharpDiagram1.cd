@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioDevices.Tracks.Track">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACMAAAAAAAAAAARABAAAxAAIAAAAAAJgAAACAASQg=</HashCode>
+      <FileName>Track.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Time" />
+      <Property Name="Category" />
+      <Property Name="TrackList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AudioDevices.Time">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAAAAAgEAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDevices.Tracks.TrackList">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAABgAABAQAAAAAAAEACACAABBAEAA=</HashCode>
+      <FileName>Tracklist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDevices.Devices.AudioDevice" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAQIAAIAAACIAQAAkCAACAAAIAAAAAQAAgAAAIAAAA=</HashCode>
+      <FileName>AudioDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDevices.Devices.MemoRecorder">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>MemoRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDevices.Devices.CdDiscMan">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBQAAAAAAAAAEAAAEAGAAAAAAAgAAAAAQAACAAAAAA=</HashCode>
+      <FileName>CdDiscMan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AudioDevices.Interfaces.Interfaces">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="AudioDevices.Interfaces.Interfaces.IDisplay" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Interfaces.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AudioDevices.Tracks.Category" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEIIACAgAAAAkAAAAEAAAAgQABKAAAAAAIgAIEIABAg=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
